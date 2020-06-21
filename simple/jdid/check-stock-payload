@@ -1,0 +1,24 @@
+https://www.jd.id/product/stock/status?provinceId=10100000&cityId=10100004&countyId=10100033&townId=10100209&skuIds=601401930
+
+{
+   "state":"SUCCESS",
+   "code":"SUCCESS",
+   "result":null,
+   "data":[
+      {
+         "skuId":601401930,
+         "regionLimit":false,
+         "stockState":"OUT_STOCK",
+         "stockNum":0,
+         "showPresale":null,
+         "dcId":100,
+         "storeId":6,
+         "storeType":1,
+         "inStock":false,
+         "popEclp":false
+      }
+   ],
+   "attr":null
+}
+
+https://www.jd.id/product/batch?skuIds=601401930
